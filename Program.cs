@@ -1,8 +1,12 @@
-﻿internal class Program
+﻿using System;
+
+namespace MeuApp
 {
-    private static void Main(string[] args)
+    class Program
     {
-        var text = "Olá, Mundo!";
-        Console.WriteLine(text);
+        static void main(string[] args)
+        {
+
+        }
     }
 }
